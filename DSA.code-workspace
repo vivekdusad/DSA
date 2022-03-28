@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Sublime Material Theme - Dark",
+		"files.associations": {
+			"iostream": "cpp"
+		}
+		
+	}
+}
